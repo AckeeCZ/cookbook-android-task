@@ -36,7 +36,7 @@ Application should contain these 3 screens. You can also download a Sketch app f
 - Use 3rd party libraries, technologies and frameworks as you wish. But have a good reason to use any of them, though.
 - Life is Great and Everything Will Be Ok, Kotlin is Here! Since Kotlin is now an officially supported Android app development languange and we love it as much as our delicious recipes, we want you to write this app in Kotlin.
 - If you want to add anything extra, just go for it!
-- Send it to us as link to dropbox / GDrive / etc..
+- Send it to us as link to your git repository or any other share services like Dropbox / GDrive / etc..
 
 [1]:	https://ackee.cz
 [2]:	http://docs.cookbook3.apiary.io/#introduction/recipes
