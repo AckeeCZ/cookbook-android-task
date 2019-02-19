@@ -1,7 +1,6 @@
 package cz.ackee.cookbook
 
 import android.app.Application
-import android.content.Context
 
 /**
  * Main application class

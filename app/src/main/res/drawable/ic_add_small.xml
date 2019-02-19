@@ -1,0 +1,18 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+        android:viewportWidth="10"
+        android:viewportHeight="10"
+        android:width="10dp"
+        android:height="10dp">
+    <group
+        android:translateX="-41"
+        android:translateY="-419">
+        <group
+            android:translateX="32"
+            android:translateY="408">
+            <path
+                android:pathData="M13.6363636 15.6363636L13.6363636 12 14.3636364 12 14.3636364 15.6363636 18 15.6363636 18 16.3636364 14.3636364 16.3636364 14.3636364 20 13.6363636 20 13.6363636 16.3636364 10 16.3636364 10 15.6363636Z"
+                android:strokeColor="#FF00FF"
+                android:strokeWidth="1"/>
+        </group>
+    </group>
+</vector>
