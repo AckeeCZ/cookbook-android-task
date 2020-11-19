@@ -7,10 +7,6 @@ import android.app.Application
  */
 class App : Application() {
 
-    companion object {
-        val TAG = App::class.java.name
-    }
-
     override fun onCreate() {
         super.onCreate()
 

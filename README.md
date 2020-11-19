@@ -10,10 +10,10 @@ We have a tasty task for you! Create an Android version of our delicious Ackee r
 it should take you only a few hours to complete this task.
 
 ## API & Server
-Documentation for the api can be found on [apiary][2] and the live server runs at this address [https://cookbook.ack.ee][3]. If you are Postman user, here's a [collection][6] for you.
+Documentation for the api can be found on [apiary][2] and the live server runs at this address [https://cookbook.ack.ee][3]. If you are Postman user, here's a [collection][4] for you.
 
 ## Designs
-Application should contain these 3 screens. You can also download a Sketch app file over [here][4]
+Application should contain these 3 screens. You can also download a Sketch app file over [here][5]
 
 <img src="https://raw.githubusercontent.com/AckeeCZ/cookbook-android-task/master/screens/01_list.png" width="200">&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/AckeeCZ/cookbook-android-task/master/screens/03_add.png" width="200">&nbsp;
@@ -27,8 +27,7 @@ Application should contain these 3 screens. You can also download a Sketch app f
 ### Tasks for you
 
 - Write the app :)
-- Use as much standards as we do in our [Android Cookbook][5]
-- Use of a reactive programming and Clean Architecture(MVVM, MVI, MVP, …) is a big advantage
+- Use of best asynchronous programming practices (coroutines, Rx streams etc.) and Clean Architecture(MVVM, MVI, MVP, …) is a big advantage
 - Application should be able to run on every device and every orientation 
 - There are only a few recipes on the server, however you should take into consideration that the application should be able to deal with any number of recipes (some sort of paging should be implemented)!
 - Application should cache its data so we can cook our delicious recipes even when offline.
@@ -40,6 +39,5 @@ Application should contain these 3 screens. You can also download a Sketch app f
 [1]:	https://ackee.cz
 [2]:	http://docs.cookbook3.apiary.io/#introduction/recipes
 [3]:	https://cookbook.ack.ee
-[4]:	https://raw.githubusercontent.com/AckeeCZ/cookbook-android-task/master/screens/ackee_cookbook.sketch
-[5]:	https://github.com/AckeeCZ/android-cookbook
-[6]:    https://www.getpostman.com/collections/ba618ded390595fa4c81
+[4]:	https://www.getpostman.com/collections/ba618ded390595fa4c81
+[5]:	https://raw.githubusercontent.com/AckeeCZ/cookbook-android-task/master/screens/ackee_cookbook.sketch
